@@ -22,8 +22,6 @@ const assertEqual = function(actual, expected) {
     return results;
   };
   
-  module.exports = countOnly;
-  
   const firstNames = [
     "Karl",
     "Salima",
